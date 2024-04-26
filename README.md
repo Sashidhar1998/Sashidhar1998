@@ -1,7 +1,7 @@
 <h1 align="center">नमस्ते (Namaste) 🙏, I'm Sashidhar Chedulla 👋</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
-![image](https://github.com/Sashidhar1998/Sashi_rep/assets/51833504/e8be20c7-6800-489b-bcf8-901d43e0c9ec)
+![1-dBPwuC3Dh2WWFFYTwogTMA](https://github.com/Sashidhar1998/Sashidhar1998/assets/51833504/e57ac699-b007-47f4-aa79-4f848b53a0f4)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sashidhar1998&label=Profile%20views&color=0e75b6&style=flat" alt="sashidhar1998" /> </p>
