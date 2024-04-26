@@ -36,7 +36,7 @@ Currently, I am working at NielsenIQ as a Data Analyst. Here, I use Python for d
 <h3 align="left"> 🔗 Connect with me:</h3>
 <hr width=300>
 <p align="left">
-<a href="https://www.linkedin.com/in/csr123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sashidhar Chedulla" height="50" width="100" /></a>
+<a href="https://www.linkedin.com/in/sashi98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sashidhar Chedulla" height="50" width="100" /></a>
 <a href="https://www.kaggle.com/sashidhar98" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Sashidhar Chedulla" height="50" width="100" /></a>
 
 
