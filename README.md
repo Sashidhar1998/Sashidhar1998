@@ -32,7 +32,7 @@ Currently, I am working at NielsenIQ as a Data Analyst. Here, I use Python for d
 
 - 📫 How to reach me **chedullasashidharreddy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17bK8DdrxUPhg5hJu_P5VLB_Vj-Bmn0EI/view?usp=sharing](https://drive.google.com/file/d/1CM-n2X_BXELd3ilJqH9mE5yO-mhdK-CC/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ieTkbTbwsD0Xuy4rULinEiD2NHDne-OV/view?usp=sharing
 <h3 align="left"> 🔗 Connect with me:</h3>
 <hr width=300>
 <p align="left">
